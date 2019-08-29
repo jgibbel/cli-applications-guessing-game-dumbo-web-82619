@@ -9,6 +9,7 @@ def run_guessing_game
   elsif input == Int && != num 
     puts "Sorry! The computer guessed #{num}."
   else puts "Goodbye!"
+  end 
   
 end 
 
